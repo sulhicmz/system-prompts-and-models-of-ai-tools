@@ -1,6 +1,25 @@
 # **System Prompts and Models of AI Tools**  
+---
+<p align="center">
+  <sub>Special thanks to</sub>  
+</p>
+
+<p align="center">
+  <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship">
+    <img src="assets/Latitude_logo.png" alt="Latitude Logo" width="700"/>
+  </a>
+</p>
+
+<div align="center" markdown="1">
+
+### [The tools you need for building reliable Agents and Prompts](https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship)  
+[Open Source AI Engineering Platform](https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship)<br>
+
+</div>
+
 
 ---
+
 <a href="https://discord.gg/NwzrWErdMU" target="_blank">
   <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
 </a>
@@ -11,6 +30,8 @@
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 📜 Over **20,000+ lines** of insights into their structure and functionality.  
+
+⭐ **Star to follow updates**
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
@@ -29,15 +50,14 @@ You can show your support via:
   - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
   - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
 - **Patreon:** https://patreon.com/lucknite
+- **Ko-fi:** https://ko-fi.com/lucknite
 
 🙏 Thank you for your support!
-
 
 ---
 
 ## 📑 Table of Contents
 
-  - [❤️ Support the Project](#️-support-the-project)
   - [📑 Table of Contents](#-table-of-contents)
   - [📂 Available Files](#-available-files)
   - [🛠 Roadmap \& Feedback](#-roadmap--feedback)
@@ -64,6 +84,8 @@ You can show your support via:
 - [**Perplexity**](./Perplexity/)
 - [**Cluely**](./Cluely/)
 - [**Xcode**](./Xcode/)
+- [**Leap.new**](./Leap.new/)
+- [**Notion AI**](./NotionAi/)
 - [**Orchids.app**](./Orchids.app/)
 - [**Junie**](./Junie/)
 - [**Kiro**](./Kiro/)
@@ -79,6 +101,10 @@ You can show your support via:
   - [Lumo](./Open%20Source%20prompts/Lumo/)
   - [Gemini CLI](./Open%20Source%20prompts/Gemini%20CLI/)
 - [**CodeBuddy**](./CodeBuddy%20Prompts/)
+- [**Poke**](./Poke/)
+- [**Comet Assistant**](./Comet%20Assistant/)
+- [**Anthropic**](./Anthropic/)
+- [**Amp**](./AMp/)
 
 ---
 
@@ -86,7 +112,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 03/09/2025
+> **Latest Update:** 29/09/2025
 
 ---
 
